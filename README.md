@@ -20,6 +20,6 @@ Veja os tutoriais publicados do Sigmoidal:
 
 * **Identificador Facial com Python:** https://github.com/joaop25/projetos/blob/main/Identificador_Face_MTCNN.ipynb
 * **Como interagir VBA com o Word:** https://github.com/joaop25/projetos/blob/main/VBA-WORD.xlsm
-
+* **Storytelling com Matplotlib:** https://github.com/joaop25/projetos/blob/main/Storytelling%20com%20Matplotlib.ipynb
 ---
 

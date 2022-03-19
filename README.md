@@ -13,7 +13,7 @@ Sou uma pessoa que sou apaixonado em analisar e entender dados e a area de Data 
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados por João Pedro Fernandes:
 
 * **Identificador Facial com Python:** https://github.com/joaop25/projetos/blob/main/Identificador_Face_MTCNN.ipynb
 * **Primeiros Passos com Scikit-Learn (Machine Learning):** https://github.com/joaop25/projetos/blob/main/Scikit-Learn%20(Machine%20Learning).ipynb

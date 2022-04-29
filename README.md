@@ -11,7 +11,7 @@ Sou uma pessoa apaixonada por tecnologia e dados, sempre determinado a usar a me
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joao-pedro-fernandes-95a125180/)
 * [Meu Blog](https://medium.com/@joaop_25)
-*
+
 
 ## Projetos:
 Veja os tutoriais publicados por João Pedro Fernandes:

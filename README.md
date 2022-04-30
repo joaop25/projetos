@@ -17,6 +17,7 @@ Sou uma pessoa apaixonada por tecnologia e dados, sempre determinado a usar a me
 Veja os tutoriais publicados por João Pedro Fernandes:
 
 * **Identificador Facial com Python:** https://github.com/joaop25/projetos/blob/main/Identificador_Face_MTCNN.ipynb
+* **Análise exploratória dos dados do Airbnb – Amsterdã, Holanda:** https://bit.ly/notebook_airbnb_amsterda
 * **Primeiros Passos com Scikit-Learn (Machine Learning):** https://github.com/joaop25/projetos/blob/main/Scikit-Learn%20(Machine%20Learning).ipynb
 * **Dados de treino e teste (Machine Learning):** https://github.com/joaop25/projetos/blob/main/Dados%20de%20treino%20e%20teste%20(Machine%20Learning).ipynb
 * **Como interagir VBA com o Word:** https://github.com/joaop25/projetos/blob/main/VBA-WORD.xlsm
